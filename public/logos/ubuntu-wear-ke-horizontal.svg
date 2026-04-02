@@ -1,0 +1,15 @@
+<svg width="520" height="160" viewBox="0 0 520 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g1" x1="28" y1="24" x2="116" y2="116" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C8A24D"/>
+      <stop offset="1" stop-color="#05876C"/>
+    </linearGradient>
+  </defs>
+  <path d="M36 44C46 22 96 22 106 44L90 56C84 44 58 44 52 56L82 88V112H70V96H58V112H46V88L76 56L60 44H44L36 52V44Z" stroke="url(#g1)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M52 122H92" stroke="#C8A24D" stroke-width="6" stroke-linecap="round"/>
+  <path d="M136 52H334" stroke="#111111" stroke-width="1.5" opacity="0.1"/>
+  <text x="136" y="74" fill="#111111" font-family="Montserrat, Arial, sans-serif" font-size="42" font-weight="800" letter-spacing="-1.6">Ubuntu Wear</text>
+  <text x="140" y="108" fill="#05876C" font-family="Montserrat, Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="8">KE</text>
+  <path d="M430 45H478V93H430Z" stroke="#F26A4B" stroke-width="2" opacity="0.3"/>
+  <path d="M438 53H470M438 61H470M438 69H470M438 77H470M438 85H470" stroke="#F26A4B" stroke-width="2" opacity="0.2"/>
+</svg>
