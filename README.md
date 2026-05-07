@@ -1,4 +1,4 @@
-# Ubuntu Wear KE
+# kladi-Collections-KE
 
 Modern React + TypeScript storefront and marketplace concept for buying and selling new and pre-loved attires in Kenya.
 
